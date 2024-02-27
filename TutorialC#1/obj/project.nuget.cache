@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oCymYULgdk+WtV3LKHe4B/NBHeY8Gg1uX0+/8WBH4JNGDKX7XNulTXbuCO/MQNXKdysShX22dWdG0F1WW0v6BQ==",
+  "success": true,
+  "projectFilePath": "/home/shell/Projects/TutorialC#1/TutorialC#1.csproj",
+  "expectedPackageFiles": [
+    "/home/shell/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.1/microsoft.aspnetcore.app.ref.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
